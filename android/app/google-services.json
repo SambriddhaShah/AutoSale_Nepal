@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906845455887",
+    "project_id": "autosalenepal",
+    "storage_bucket": "autosalenepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906845455887:android:72d9657e5160426eea457a",
+        "android_client_info": {
+          "package_name": "com.example.auto_sale_nepal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXzI-x7s3FQpuZGXwWwrGc5XZqFREltw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
